@@ -47,7 +47,7 @@ let reload=()=>{
             <button className='btn btn-reload' onClick={reload} type="submit">Reload</button>
           </div>
           <div className='center'>
-            <label>BMI is {bmi}</label>
+            <label className='right'>BMI is {bmi}</label>
             <label>{message}</label>
           </div>
         </form>

@@ -6,15 +6,6 @@
   margin: 0;
   padding: 0;
   font-family: 'Inter', sans-if;
-}ser
-
-.app {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 100vh;
 }
 
 .container {
@@ -43,32 +34,14 @@ input {
   border-radius: 8px;
   cursor: pointer;
 }
-/* unvisited link */
-
-
-
-.btn-outline {
-  background-color: #ededed;
-    color: #000000;
-}
 
 .center {
   text-align: center;
   margin: 24px 0;
   color: #354665;
 }
-.input_val
-{
-  color: #354665;
-}
-p {
-  margin: 10px 0;
+.right{
+  margin: 5px;
 }
 
-.img-container {
-  text-align: center;
-}
 
-.img-container img {
-  height: 100px;
-}
